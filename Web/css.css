@@ -1,0 +1,20 @@
+body{
+	background: #eee;
+	max-widht: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+body-after{
+	content: "";
+	display: block;
+	clear: both;
+
+}
+.new-shape{
+	fill: blue;
+
+}
+.logo:hover .new-shape{
+	fill: red;
+	
+}

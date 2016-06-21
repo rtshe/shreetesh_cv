@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Text emphasis</title>
+    </head>
+    <body>
+
+    <center><h1>All About Myself(CV)</h1></center>
+    
+    <h2> Basic info </h2>
+    <h3>Name :  Shreetesh Shrestha </h3>
+    <p></p>
+    
+    <h2>Education</h2>
+    
+    <p>Cleared my A-level (KATHMANDU aE) <br>
+        Cleared my SLC() <br>
+        Core Java <br>
+        Advanced Java<br>
+        Bachelor(hons)Computing</p>
+
+    </body>
+</html>

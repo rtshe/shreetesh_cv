@@ -1,0 +1,164 @@
+<p>A dialogue from <a href="http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29">The Princess Bride</a>:</p>
+
+<script>
+        document.body.innerHTML = "Webpage be gone!";
+        </script>
+
+ <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle</p>
+    </body>
+
+
+ <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle</p>
+    </body>
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS: Selecting by class</title>
+        <style>
+        
+        h2 {
+            color: rgb(0, 232, 15);
+        }  
+        
+        #rabbits-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color: rgb(191, 0, 255);
+        }
+        
+        .song-lyrics {
+            background-color: yellow;
+        }
+        
+        </style>
+    </head>
+    <body>
+
+    <h1>All about rabbits!</h1>
+    
+    <h2 id="rabbits-info-heading">Basic info</h2>
+    
+    <p>Rabbits are little creatures with long ears and puffy tails, and they move their nose up and down in an adorable way. They eat the most orange vegetables in <em>our</em> world, and <strong>they reproduce more than any human <em>ever</em> has</strong>.</p>
+    
+    <h2>Songs</h2>
+    
+    <p class="song-lyrics">Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+    
+    <p class="song-lyrics">And down came the Good Fairy <br>
+And she said <br>
+"Little bunny Foo Foo <br>
+I don't like you're attitude <br>
+Scooping up the field mice <br>
+And bopping 'em on the head" <br>
+    </p>
+    
+    <p class="song-lyrics">I'll give you 3 chances. <br>
+Then I'll turn you into a goon! <br>
+The next day…</p>
+    
+
+
+
+    #sidebar{
+       display : none;
+   }
+   img:hover ~ #sidebar {
+       display : block;
+   }
+    #sidebar:hover {
+       display : block;
+   }
+</style>
+<img src="images/cart.jpg" width="80px" height="30px" >
+
+<div id="sidebar">some thing</div>
+    
+
+     <input type="checkbox" id="AboutMe" role="button">
+    <label for="AboutMe" onclick=" "><span>About Me</span><span>Hide This About ME!</span></label> 
+
+    <!-- <img src="images/cart.jpg" width="80px" height="30px" onMouseOver="show_sidebar()"     onMouseOut="hide_sidebar()">
+
+<div id="sidebar">some thing</div> -->
+
+
+
+
+
+
+
+ <center><img src="https://newcastleresearchers.files.wordpress.com/2013/06/15468283-cv-curriculum-vitae-concetto-di-tag-cloud-parola-su-sfondo-bianco.jpg" alt="CV of mine" width="350" onMouseOver="show_sidebar()"     onMouseOut="hide_sidebar()"></center>
+      <div id="sidebar">SEEN</div>
+   
+   
+    <h3 id="AboutMe"  onMouseOver="show_sidebar()"     onMouseOut="hide_sidebar()">About Me</h3>
+
+
+
+     <center><img src="https://newcastleresearchers.files.wordpress.com/2013/06/15468283-cv-curriculum-vitae-concetto-di-tag-cloud-parola-su-sfondo-bianco.jpg" alt="CV of mine" width="350"onMouseOver="show_sidebar()"     onMouseOut="hide_sidebar()"></center>
+ <div id="sidebar">SEEN</div>
+
+
+
+
+<script>
+        function showHideShipInfo() {
+            if(document.getElementById('shipsame').checked) {
+                document.getElementById('shipinfo').style.display='none';
+            } else {
+                document.getElementById('shipinfo').style.display='block';
+                }
+        }
+        
+        
+        </script>
+        function showHideShipInfo() {
+            if(document.getElementById('shipsame').checked) {
+                document.getElementById('shipinfo').style.display='none';
+            } else {
+                document.getElementById('shipinfo').style.display='block';
+                }
+        }
+        
+        
+
+         <script type="text/javascript">
+      function show_sidebar(){
+        document.getElementById('Para').style.visibility="visible";
+      }
+      function hide_sidebar()
+      {
+        document.getElementById('Para').style.visibility="hidden"; 
+      }
+      function in_line(){
+        document.getElementById('Para').style.in_line="in_line";
+      }
+    </script>
+            
+            <script type="text/javascript">
+   function showHideShipInfo(){
+    if (document.getElementById('AboutMe').checked) {
+      document.getElementById('AboutMe').style.display='none';
+    }else{
+      document.getElementById('AboutMe').style.display="block";
+    }
+   }
+ </script>

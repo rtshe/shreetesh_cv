@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Basics</title>
+    </head>
+    <body>
+
+   <center> <h1>Curricullum Vitae</h1></center>
+    <marquee behavior="" direction="right">CV</marquee>
+   <center> <img src="https://newcastleresearchers.files.wordpress.com/2013/06/15468283-cv-curriculum-vitae-concetto-di-tag-cloud-parola-su-sfondo-bianco.jpg" alt="Rabbit with lop ears in barn" width="350"> </center>
+
+   <audio controls>
+    <source src=" /home/shreetesh/Downloads/jag-ghoomeya-sultan-arjun (1).mp3">
+   </audio>
+
+   <video>
+       <source></source>
+   </video>
+    <marquee>SAY SO</marquee>
+    <h2>Basic info</h2>
+    
+    <h3>Name :</h3>
+        Shreetesh Shrestha
+    <h3>Address : </h3>
+        New Road, Kathmandu, Nepal
+    <h3>Contact No. :</h3>
+        +977-9843655195
+
+    <h2>About Me</h2>
+    <p> Bon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoir.......<strong><em>Shreetesh</em></strong>...... jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon ====<strong><em>Shrestha</em></strong> =====jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoirBon jovoir    </p>    
+    
+    <p> <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+
+
+    <h3>Things that i have achieved</h3>
+    
+    <ul>
+        <li>Wining back-to-back trophies</li>
+        <li>Wining back-to-back MvP awards</li>
+        <li>Wining back-to-back GOld Medals</li>
+    </ul>
+    
+    <h3>Other Achievements</h3>
+    
+    <ol>
+        <li>Donier</li>
+        <li>Dolef</li>
+        <li>Dadier</li>
+    </ol>
+    
+    
+    </body>
+</html>
